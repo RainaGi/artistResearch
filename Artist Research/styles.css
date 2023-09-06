@@ -1,0 +1,73 @@
+.image1 {
+    margin-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    height: 40rem;
+    width: 5rem;
+}
+
+.image2 {
+    margin-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-top: 5%;
+    height: 40rem;
+    width: 2rem;
+}
+
+.image3 {
+    margin-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-top: 5%;
+    height: 40rem;
+    width: 2rem;
+}
+
+.hr{
+    height: 0.25rem;
+    margin-top: 5rem;
+}
+
+body{
+    background-image: url(./background.jpeg);
+}
+
+.resources{
+    margin-top:3rem;
+    padding:7% 15%;
+}
+
+.multi-page{
+    position:absolute;
+    top: 110%;
+    right:45%;
+}
+
+.copyright{
+    margin-top: 5rem;
+    font-size: 0.85rem;
+}
+
+.navbar-brand{
+    font-family: cursive;
+    font-weight: 200;
+}
+
+.background-div{
+    margin: 7% 15%;
+    padding: 2% 5%;
+}
+
+.background-section{
+    font-family: cursive;
+}
+
+h5{
+    text-align: justify;
+}
+
+.border{
+    margin: 2rem 3rem;
+    padding: 2rem 3rem;
+}
